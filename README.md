@@ -1,7 +1,7 @@
 ![ThonaSeguros](http://thonaseguros.mx/images/Thona_Seguros.png)
 
 # Repositorio-SicasPruebas
-Repositorio para los objetos de Sicas productivo
+Repositorio para los objetos de pruebas en Sicas
 
 ## Objetos de Juan Manuel
 1. repocomi.fmb
