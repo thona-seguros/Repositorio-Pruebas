@@ -1,6 +1,6 @@
 ![ThonaSeguros](http://thonaseguros.mx/images/Thona_Seguros.png)
 
-# Sicas-Produccion
+# Sicas-ProduccionPruebas
 Repositorio para los objetos de Sicas productivo
 
 ## Objetos de Juan Manuel
@@ -23,5 +23,3 @@ Repositorio para los objetos de Sicas productivo
 8. OC_FACTURAS.sql
 
 ### _Quedan pendientes los objetos de Ignacio y Carlos_
-
-Debemos poner los nuevos cambios de los objetos
