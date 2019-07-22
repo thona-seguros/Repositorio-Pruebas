@@ -1,6 +1,6 @@
 ![ThonaSeguros](http://thonaseguros.mx/images/Thona_Seguros.png)
 
-# Sicas-ProduccionPruebas
+# Sicas-Pruebas
 Repositorio para los objetos de Sicas productivo
 
 ## Objetos de Juan Manuel
