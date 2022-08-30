@@ -1,4 +1,6 @@
 CREATE OR REPLACE PACKAGE SICAS_OC.OC_FACTURAS IS
+--pruebas Rosy que nos debe los chamorros
+
 
 PROCEDURE PAGAR_CON_PRIMA_DEPOSITO(nIdFactura NUMBER, nIdPrimaDeposito NUMBER, cNumReciboPago VARCHAR2,
                                    dFecPago DATE, cNumDepBancario VARCHAR2, nIdTransaccion NUMBER);
