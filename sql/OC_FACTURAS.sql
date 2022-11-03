@@ -1,5 +1,5 @@
 CREATE OR REPLACE PACKAGE SICAS_OC.OC_FACTURAS IS
-
+--**Prueba de ajustes JJIBARA
 PROCEDURE PAGAR_CON_PRIMA_DEPOSITO(nIdFactura NUMBER, nIdPrimaDeposito NUMBER, cNumReciboPago VARCHAR2,
                                    dFecPago DATE, cNumDepBancario VARCHAR2, nIdTransaccion NUMBER);
 
