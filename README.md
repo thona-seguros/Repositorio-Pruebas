@@ -1,4 +1,4 @@
-![ThonaSeguros](http://thonaseguros.mx/images/Thona_Seguros.png)
+![ThonaSeguros](https://thonaseguros.mx/wp-content/uploads/2020/12/Logo-2021-Hor_Blanco_SL.png)
 
 # Repositorio-SicasPruebas
 Repositorio para los objetos de pruebas en Sicas
